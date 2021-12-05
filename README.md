@@ -1,2 +1,2 @@
 # plankthon_challenge
-Hackathon held by Veolia and TaraOcean
+Data Science and ML Hackathon held by Veolia and TaraOcean
